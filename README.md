@@ -31,6 +31,8 @@ Nem funkcionális elvárások:
 - Gyors működés
 - Biztonságos működés: jelszavak tárolása
 
+Használatieset-modell:
+
 Szerepkörök:
 - vendég: a főoldalhoz, a regisztrációhoz, és a bejelentkezés oldalakhoz fér hozzá, de recepteket megtekinteni és rögzíteni nem tud
 - felhasználó: a vendég szerepkörén túl recepteket tud hozzáadni, módosítani és törölni
