@@ -63,13 +63,15 @@ Felhasználó:
 
 Végpontok:
 
-get/ : főoldal
-get/login : bejelentkező oldal
-post/login : bejelentkezési adatok bevitele
-get/signup : regisztrációs oldal
-post/signup : regisztrációs adatok elküldése
-get/list : receptek megjelenítése
-get/new : új recept felvétele
-post/new : recept adatainak felküldése
-get/:id : recept adatai
-post/:id/comment : módosítás hozzáadása
+- get/ : főoldal
+- get/login : bejelentkező oldal
+- post/login : bejelentkezési adatok bevitele
+- get/signup : regisztrációs oldal
+- post/signup : regisztrációs adatok elküldése
+- get/list : receptek megjelenítése
+- get/new : új recept felvétele
+- post/new : recept adatainak felküldése
+- get/:id : recept adatai
+- post/:id/comment : módosítás hozzáadása
+
+
