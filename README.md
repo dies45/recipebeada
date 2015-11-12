@@ -30,3 +30,10 @@ Nem funkcionális elvárások:
 - Felhasználóbarát elrendezés
 - Gyors működés
 - Biztonságos működés: jelszavak tárolása
+
+Szerepkörök:
+- vendég: a főoldalhoz, a regisztrációhoz, és a bejelentkezés oldalakhoz fér hozzá, de recepteket megtekinteni és rögzíteni nem tud
+- felhasználó: a vendég szerepkörén túl recepteket tud hozzáadni, módosítani és törölni
+
+
+
