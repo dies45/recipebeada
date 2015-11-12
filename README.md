@@ -17,6 +17,7 @@ A feladatnak mininálisan tartalmaznia kell:
 - közzététel Herokun
 
 Választott feladat: Receptek és hozzávalók
+
 Funkcionális elvárások:
 - A felhaszáló recepteket szeretne tároli, erre szolgál az új recept hozzáadása.
 - A felvett recepteket meg kell jeleníteni, későbbi olvasásra.
