@@ -47,3 +47,20 @@ Főoldal->Bejelenkezés->Saját receptek->Új recept hozzáadása
 
 ##Tervezés
 
+Architektúra terv:
+
+Oldaltérkép:
+
+Publikus:
+- Főoldal
+- Regisztráció
+- Bejelentkezés
+
+Felhasználó:
+- Főoldal
+- Bejelentkezés/Kilépés
+- Receptek: Új recept hozzáadása/törlése, Recept megtekintése/módosítás hozzáfűzése
+
+Végpontok:
+
+
