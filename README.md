@@ -78,7 +78,14 @@ Végpontok:
 Adatmodell:
 
 
+##Implementáció
 
+Fejlesztői környezet: Cloud9
 
+Könyvtárstruktúrában lévő mappák funkiójának bemutatása:
 
-
+- recipebeada: főkönyvtár
+- recipebeada/controllers : végpontok definiálása és műveleteik
+- recipebeada/models : adatmodellek és tesztelés
+- recipebeada/views/login : regisztráció és bejelentkezés
+- recipebeada/views/recipes : receptek hozzáadása és megtekintése
