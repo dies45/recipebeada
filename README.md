@@ -3,7 +3,7 @@
 ## Követelményanalízis
 
 Feladat: 
-Első beadandóként egy kis webes alkalmazás elkészítése a cél szerveroldali technológiák segítségével. 
+Első beadandóként  egy kis  webes alkalmazás elkészítése a cél szerveroldali technológiák segítségével. 
  A feladatnak mininálisan tartalmaznia kell:
 
 - legalább két modellt, egy-sok kapcsolatban
