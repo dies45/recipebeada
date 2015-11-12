@@ -89,3 +89,11 @@ Könyvtárstruktúrában lévő mappák funkiójának bemutatása:
 - recipebeada/models : adatmodellek és tesztelés
 - recipebeada/views/login : regisztráció és bejelentkezés
 - recipebeada/views/recipes : receptek hozzáadása és megtekintése
+
+##Tesztelés
+
+Tesztelési környezet: Cloud9
+
+Egységteszt: mocha, chai
+- User tesztelése : (user.test.js) Felhasználó létrehozásának és azonosításának tesztje.
+- Eredmény: passing
