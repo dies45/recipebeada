@@ -37,5 +37,13 @@ Szerepkörök:
 - vendég: a főoldalhoz, a regisztrációhoz, és a bejelentkezés oldalakhoz fér hozzá, de recepteket megtekinteni és rögzíteni nem tud
 - felhasználó: a vendég szerepkörén túl recepteket tud hozzáadni, módosítani és törölni
 
+Használati eset diagram:
 
+
+
+Folyamat menete:
+
+Főoldal->Bejelenkezés->Saját receptek->Új recept hozzáadása
+
+##Tervezés
 
