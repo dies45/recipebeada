@@ -104,3 +104,11 @@ Funkcionális teszt: Selenium IDE
 
 ##Felhasználói dokumentáció
 
+A futtatáshoz ajánlott minimális követelmény: 
+
+512MB RAM, 1GB HDD, webböngésző
+
+A program használata:
+
+Közzétéve: [http://recipebeada.herokuapp.com/](http://recipebeada.herokuapp.com/) oldalon.
+
