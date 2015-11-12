@@ -112,3 +112,4 @@ A program használata:
 
 Közzétéve: [http://recipebeada.herokuapp.com/](http://recipebeada.herokuapp.com/) oldalon.
 
+Kezdetben a főoldalt láthatjuk 
