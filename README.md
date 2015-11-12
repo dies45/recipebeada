@@ -97,3 +97,10 @@ Tesztelési környezet: Cloud9
 Egységteszt: mocha, chai
 - User tesztelése : (user.test.js) Felhasználó létrehozásának és azonosításának tesztje.
 - Eredmény: passing
+
+Funkcionális teszt: Selenium IDE
+- Bejelentkezési funkció tesztelése 
+- Eredmény: passed
+
+##Felhasználói dokumentáció
+
