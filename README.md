@@ -73,5 +73,12 @@ Végpontok:
 - post/new : recept adatainak felküldése
 - get/:id : recept adatai
 - post/:id/comment : módosítás hozzáadása
+- get/delete/:id : recept törlése
+
+Adatmodell:
+
+
+
+
 
 
