@@ -4,7 +4,7 @@
 
 Feladat: 
 Első beadandóként  egy kis  webes alkalmazás elkészítése a cél szerveroldali technológiák segítségével. 
- A feladatnak mininálisan tartalmaznia kell:
+A feladatnak mininálisan tartalmaznia kell:
 
 - legalább két modellt, egy-sok kapcsolatban
 - legalább 1 űrlapot
@@ -24,3 +24,8 @@ Funkcionális elvárások:
 - A recepteket lehessen törölni is.
 - Bejelentkezés után lehessen hozzáférni a receptekhez.
 - A főoldalon legyen rövid tájékoztató.
+
+Nem funkcionális elvárások:
+- Felhasználóbarát elrendezés
+- Gyors működés
+- Biztonságos működés: jelszavak tárolása
