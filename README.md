@@ -99,7 +99,8 @@ Egységteszt: mocha, chai
 - Eredmény: passing
 
 Funkcionális teszt: Selenium IDE
-- Bejelentkezési funkció tesztelése 
+Tesztesetek:
+- [Bejelentkezés, majd új recept felvétele.](https://github.com/dies45/recipebeada/blob/master/tests/recipebtest.html)
 - Eredmény: passed
 
 ##Felhasználói dokumentáció
