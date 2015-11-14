@@ -39,7 +39,7 @@ Szerepkörök:
 
 Használati eset diagram:
 
-![Kép felirata](pictrures/receptb.png)
+![Kép felirata](pictures/receptb.png)
 
 Folyamat menete:
 
